@@ -2,7 +2,7 @@ import express from "express";
 import mongoose from "mongoose";
 import dotenv from "dotenv";
 import cors from "cors";
-import bookRoutes from "./routes/book.routes";
+import bookRoutes from "./routes/cars.routes";
 
 dotenv.config();
 
